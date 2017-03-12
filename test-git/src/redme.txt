@@ -1,3 +1,0 @@
-this is git 
-this is first
-this is dev
